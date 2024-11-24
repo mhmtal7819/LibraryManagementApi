@@ -1,0 +1,1018 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE455C-1DAC-4BC2-9D29-DE5871BF9102}|Presentation\\Presentation.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\presentation\\controllers\\libscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBE455C-1DAC-4BC2-9D29-DE5871BF9102}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\libscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\services\\libmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|solutionrelative:services\\libmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|solutionrelative:services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\services\\contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|solutionrelative:services\\contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\services\\contracts\\ilibservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|solutionrelative:services\\contracts\\ilibservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\repositories\\efcore\\librepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\librepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\repositories\\contracts\\ilibrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\ilibrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\repositories\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\repositories\\efcore\\config\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\config\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\repositories\\efcore\\config\\libconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\config\\libconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\models\\libs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\models\\libs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\services\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|solutionrelative:services\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\exceptions\\categorynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\exceptions\\categorynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE455C-1DAC-4BC2-9D29-DE5871BF9102}|Presentation\\Presentation.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\presentation\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBE455C-1DAC-4BC2-9D29-DE5871BF9102}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\services\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|solutionrelative:services\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\repositories\\efcore\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\repositories\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\repositories\\efcore\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\repositories\\contracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\repositories\\efcore\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE455C-1DAC-4BC2-9D29-DE5871BF9102}|Presentation\\Presentation.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBE455C-1DAC-4BC2-9D29-DE5871BF9102}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\services\\authenticationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|solutionrelative:services\\authenticationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\services\\contracts\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|solutionrelative:services\\contracts\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FF3E2-C789-4E1E-B6A1-34704C652716}|bsStoreApp\\bsStoreApp.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\bsstoreapp\\utilities\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FF3E2-C789-4E1E-B6A1-34704C652716}|bsStoreApp\\bsStoreApp.csproj|solutionrelative:bsstoreapp\\utilities\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\datatransferobjects\\userforconfigurationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\userforconfigurationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\repositories\\efcore\\config\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\config\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\services\\booklinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|solutionrelative:services\\booklinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FF3E2-C789-4E1E-B6A1-34704C652716}|bsStoreApp\\bsStoreApp.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\bsstoreapp\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FF3E2-C789-4E1E-B6A1-34704C652716}|bsStoreApp\\bsStoreApp.csproj|solutionrelative:bsstoreapp\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FF3E2-C789-4E1E-B6A1-34704C652716}|bsStoreApp\\bsStoreApp.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\bsstoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FF3E2-C789-4E1E-B6A1-34704C652716}|bsStoreApp\\bsStoreApp.csproj|solutionrelative:bsstoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FF3E2-C789-4E1E-B6A1-34704C652716}|bsStoreApp\\bsStoreApp.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\bsstoreapp\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FF3E2-C789-4E1E-B6A1-34704C652716}|bsStoreApp\\bsStoreApp.csproj|solutionrelative:bsstoreapp\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE455C-1DAC-4BC2-9D29-DE5871BF9102}|Presentation\\Presentation.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\presentation\\actionfilters\\validationmediatypeattiribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBE455C-1DAC-4BC2-9D29-DE5871BF9102}|Presentation\\Presentation.csproj|solutionrelative:presentation\\actionfilters\\validationmediatypeattiribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\models\\shapedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\models\\shapedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\linkmodels\\linkresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\linkmodels\\linkresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\linkmodels\\linkresourcebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\linkmodels\\linkresourcebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\linkmodels\\linkcollectionwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\linkmodels\\linkcollectionwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\requestfeatures\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\requestfeatures\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\repositories\\efcore\\librepositoryextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\librepositoryextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\repositories\\efcore\\orderquerybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\orderquerybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\requestfeatures\\bookparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\requestfeatures\\bookparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\repositories\\efcore\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296FEF94-5A18-41FD-85B8-74FBAAFE98D0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\exceptions\\priceoutrangebadrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\exceptions\\priceoutrangebadrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\requestfeatures\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\requestfeatures\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\requestfeatures\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\requestfeatures\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE455C-1DAC-4BC2-9D29-DE5871BF9102}|Presentation\\Presentation.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\presentation\\actionfilters\\logfilterattiribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBE455C-1DAC-4BC2-9D29-DE5871BF9102}|Presentation\\Presentation.csproj|solutionrelative:presentation\\actionfilters\\logfilterattiribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\logmodel\\logdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\logmodel\\logdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE455C-1DAC-4BC2-9D29-DE5871BF9102}|Presentation\\Presentation.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\presentation\\actionfilters\\validationfilterattiribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBE455C-1DAC-4BC2-9D29-DE5871BF9102}|Presentation\\Presentation.csproj|solutionrelative:presentation\\actionfilters\\validationfilterattiribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\datatransferobjects\\bookdtoinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\bookdtoinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\datatransferobjects\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\datatransferobjects\\bookdtoformanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\bookdtoformanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\datatransferobjects\\bookdtoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\bookdtoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\exceptions\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\exceptions\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\entities\\errormodel\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEAE5C-BF5F-4580-9E17-765B8C6C8F08}|Entities\\Entities.csproj|solutionrelative:entities\\errormodel\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\services\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|solutionrelative:services\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\services\\contracts\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBA08B7-886F-4334-A140-B7CC1A7C2FD6}|Services\\Services.csproj|solutionrelative:services\\contracts\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FF3E2-C789-4E1E-B6A1-34704C652716}|bsStoreApp\\bsStoreApp.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\bsstoreapp\\contextfactory\\repositorycontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FF3E2-C789-4E1E-B6A1-34704C652716}|bsStoreApp\\bsStoreApp.csproj|solutionrelative:bsstoreapp\\contextfactory\\repositorycontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE455C-1DAC-4BC2-9D29-DE5871BF9102}|Presentation\\Presentation.csproj|c:\\users\\mhmta\\source\\repos\\bsstoreapp\\presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBE455C-1DAC-4BC2-9D29-DE5871BF9102}|Presentation\\Presentation.csproj|solutionrelative:presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\Contracts\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\Contracts\\IRepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:23:11.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILibRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\Contracts\\ILibRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\ILibRepository.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\Contracts\\ILibRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\ILibRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T08:10:32.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\LibRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\LibRepository.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\LibRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\LibRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAnwCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T08:11:38.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILibService.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\Contracts\\ILibService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\ILibService.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\Contracts\\ILibService.cs",
+              "RelativeToolTip": "Services\\Contracts\\ILibService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:48:55.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibManager.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\LibManager.cs",
+              "RelativeDocumentMoniker": "Services\\LibManager.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\LibManager.cs",
+              "RelativeToolTip": "Services\\LibManager.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwD4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:01:33.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\Contracts\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IServiceManager.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\Contracts\\IServiceManager.cs",
+              "RelativeToolTip": "Services\\Contracts\\IServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:46:41.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "Services\\ServiceManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:47:10.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibsController.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Presentation\\Controllers\\LibsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\LibsController.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Presentation\\Controllers\\LibsController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\LibsController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAwwHYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:52:56.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryConfig.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\Config\\CategoryConfig.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Config\\CategoryConfig.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\Config\\CategoryConfig.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Config\\CategoryConfig.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:15:18.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibConfig.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\Config\\LibConfig.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Config\\LibConfig.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\Config\\LibConfig.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Config\\LibConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:39:42.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Models\\Category.cs",
+              "RelativeToolTip": "Entities\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:46:35.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Libs.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Models\\Libs.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Libs.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Models\\Libs.cs",
+              "RelativeToolTip": "Entities\\Models\\Libs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:04:48.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\CategoryManager.cs",
+              "RelativeToolTip": "Services\\CategoryManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:21:57.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Exceptions\\CategoryNotFoundException.cs",
+              "RelativeDocumentMoniker": "Entities\\Exceptions\\CategoryNotFoundException.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Exceptions\\CategoryNotFoundException.cs",
+              "RelativeToolTip": "Entities\\Exceptions\\CategoryNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:33:19.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Presentation\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Presentation\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:27:14.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\Contracts\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\Contracts\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\Contracts\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:21:05.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:52:57.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\Contracts\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\Contracts\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:51:42.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:50:00.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\Config\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Config\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\Config\\RoleConfiguration.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Config\\RoleConfiguration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAjwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:36:03.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\Contracts\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\Contracts\\IRepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T08:27:55.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\RepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\RepositoryManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBMAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T08:28:28.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserForConfigurationDto.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\DataTransferObjects\\UserForConfigurationDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\UserForConfigurationDto.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\DataTransferObjects\\UserForConfigurationDto.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\UserForConfigurationDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:53:48.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthenticationManager.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\AuthenticationManager.cs",
+              "RelativeDocumentMoniker": "Services\\AuthenticationManager.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\AuthenticationManager.cs",
+              "RelativeToolTip": "Services\\AuthenticationManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:06:43.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookLinks.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\BookLinks.cs",
+              "RelativeDocumentMoniker": "Services\\BookLinks.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\BookLinks.cs",
+              "RelativeToolTip": "Services\\BookLinks.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAnwDsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:26:33.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryContext.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\RepositoryContext.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\RepositoryContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:39:15.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\Contracts\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\Contracts\\IAuthenticationService.cs",
+              "RelativeToolTip": "Services\\Contracts\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:08:22.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\bsStoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "bsStoreApp\\Program.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\bsStoreApp\\Program.cs",
+              "RelativeToolTip": "bsStoreApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:43:13.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Models\\User.cs",
+              "RelativeToolTip": "Entities\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:56:39.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\bsStoreApp\\Extensions\\ServicesExtensions.cs",
+              "RelativeDocumentMoniker": "bsStoreApp\\Extensions\\ServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\bsStoreApp\\Extensions\\ServicesExtensions.cs",
+              "RelativeToolTip": "bsStoreApp\\Extensions\\ServicesExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:39:58.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\bsStoreApp\\Utilities\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "bsStoreApp\\Utilities\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\bsStoreApp\\Utilities\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "bsStoreApp\\Utilities\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:04:04.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LinkCollectionWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\LinkModels\\LinkCollectionWrapper.cs",
+              "RelativeDocumentMoniker": "Entities\\LinkModels\\LinkCollectionWrapper.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\LinkModels\\LinkCollectionWrapper.cs",
+              "RelativeToolTip": "Entities\\LinkModels\\LinkCollectionWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:51:27.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\bsStoreApp\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "bsStoreApp\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\bsStoreApp\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "bsStoreApp\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:32:38.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ValidationMediaTypeAttiribute.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Presentation\\ActionFilters\\ValidationMediaTypeAttiribute.cs",
+              "RelativeDocumentMoniker": "Presentation\\ActionFilters\\ValidationMediaTypeAttiribute.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Presentation\\ActionFilters\\ValidationMediaTypeAttiribute.cs",
+              "RelativeToolTip": "Presentation\\ActionFilters\\ValidationMediaTypeAttiribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:19:44.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ShapedEntity.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Models\\ShapedEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\ShapedEntity.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Models\\ShapedEntity.cs",
+              "RelativeToolTip": "Entities\\Models\\ShapedEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:22:12.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LinkResourceBase.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\LinkModels\\LinkResourceBase.cs",
+              "RelativeDocumentMoniker": "Entities\\LinkModels\\LinkResourceBase.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\LinkModels\\LinkResourceBase.cs",
+              "RelativeToolTip": "Entities\\LinkModels\\LinkResourceBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:52:13.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LinkResponse.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\LinkModels\\LinkResponse.cs",
+              "RelativeDocumentMoniker": "Entities\\LinkModels\\LinkResponse.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\LinkModels\\LinkResponse.cs",
+              "RelativeToolTip": "Entities\\LinkModels\\LinkResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:52:41.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Models\\Entity.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Entity.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Models\\Entity.cs",
+              "RelativeToolTip": "Entities\\Models\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:03:21.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BookParameters.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\RequestFeatures\\BookParameters.cs",
+              "RelativeDocumentMoniker": "Entities\\RequestFeatures\\BookParameters.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\RequestFeatures\\BookParameters.cs",
+              "RelativeToolTip": "Entities\\RequestFeatures\\BookParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:47:29.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LibRepositoryExtension.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\LibRepositoryExtension.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\LibRepositoryExtension.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\LibRepositoryExtension.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\LibRepositoryExtension.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:32:56.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderQueryBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\OrderQueryBuilder.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\OrderQueryBuilder.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\OrderQueryBuilder.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\OrderQueryBuilder.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:19:06.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RequestParameters.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\RequestFeatures\\RequestParameters.cs",
+              "RelativeDocumentMoniker": "Entities\\RequestFeatures\\RequestParameters.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\RequestFeatures\\RequestParameters.cs",
+              "RelativeToolTip": "Entities\\RequestFeatures\\RequestParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:43:22.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PriceOutRangeBadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Exceptions\\PriceOutRangeBadRequestException.cs",
+              "RelativeDocumentMoniker": "Entities\\Exceptions\\PriceOutRangeBadRequestException.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Exceptions\\PriceOutRangeBadRequestException.cs",
+              "RelativeToolTip": "Entities\\Exceptions\\PriceOutRangeBadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:16:54.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\RepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\RepositoryBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:57:49.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\RequestFeatures\\PagedList.cs",
+              "RelativeDocumentMoniker": "Entities\\RequestFeatures\\PagedList.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\RequestFeatures\\PagedList.cs",
+              "RelativeToolTip": "Entities\\RequestFeatures\\PagedList.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:42:08.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Entities\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Entities\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:11:29.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MetaData.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\RequestFeatures\\MetaData.cs",
+              "RelativeDocumentMoniker": "Entities\\RequestFeatures\\MetaData.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\RequestFeatures\\MetaData.cs",
+              "RelativeToolTip": "Entities\\RequestFeatures\\MetaData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:37:30.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LogFilterAttiribute.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Presentation\\ActionFilters\\LogFilterAttiribute.cs",
+              "RelativeDocumentMoniker": "Presentation\\ActionFilters\\LogFilterAttiribute.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Presentation\\ActionFilters\\LogFilterAttiribute.cs",
+              "RelativeToolTip": "Presentation\\ActionFilters\\LogFilterAttiribute.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBZwCMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:08:48.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LogDetails.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\LogModel\\LogDetails.cs",
+              "RelativeDocumentMoniker": "Entities\\LogModel\\LogDetails.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\LogModel\\LogDetails.cs",
+              "RelativeToolTip": "Entities\\LogModel\\LogDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:03:46.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ValidationFilterAttiribute.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Presentation\\ActionFilters\\ValidationFilterAttiribute.cs",
+              "RelativeDocumentMoniker": "Presentation\\ActionFilters\\ValidationFilterAttiribute.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Presentation\\ActionFilters\\ValidationFilterAttiribute.cs",
+              "RelativeToolTip": "Presentation\\ActionFilters\\ValidationFilterAttiribute.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:29:39.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BookDtoUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\DataTransferObjects\\BookDtoUpdate.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\BookDtoUpdate.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\DataTransferObjects\\BookDtoUpdate.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\BookDtoUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABRwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:59:19.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\DataTransferObjects\\BookDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\BookDto.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\DataTransferObjects\\BookDto.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:31:58.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BookDtoForManipulation.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\DataTransferObjects\\BookDtoForManipulation.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\BookDtoForManipulation.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\DataTransferObjects\\BookDtoForManipulation.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\BookDtoForManipulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:54:35.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BookDtoInsertion.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\DataTransferObjects\\BookDtoInsertion.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\BookDtoInsertion.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\DataTransferObjects\\BookDtoInsertion.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\BookDtoInsertion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:14:18.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BookNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Exceptions\\BookNotFoundException.cs",
+              "RelativeDocumentMoniker": "Entities\\Exceptions\\BookNotFoundException.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Exceptions\\BookNotFoundException.cs",
+              "RelativeToolTip": "Entities\\Exceptions\\BookNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:52:20.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Entities\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Entities\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:52:12.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\ErrorModel\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "Entities\\ErrorModel\\ErrorDetails.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Entities\\ErrorModel\\ErrorDetails.cs",
+              "RelativeToolTip": "Entities\\ErrorModel\\ErrorDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:21:54.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "Services\\LoggerManager.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\LoggerManager.cs",
+              "RelativeToolTip": "Services\\LoggerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:30:03.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ILoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\Contracts\\ILoggerService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\ILoggerService.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Services\\Contracts\\ILoggerService.cs",
+              "RelativeToolTip": "Services\\Contracts\\ILoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:29:40.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RepositoryContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\bsStoreApp\\ContextFactory\\RepositoryContextFactory.cs",
+              "RelativeDocumentMoniker": "bsStoreApp\\ContextFactory\\RepositoryContextFactory.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\bsStoreApp\\ContextFactory\\RepositoryContextFactory.cs",
+              "RelativeToolTip": "bsStoreApp\\ContextFactory\\RepositoryContextFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:11:40.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Presentation\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Presentation\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\mhmta\\source\\repos\\bsStoreApp\\Presentation\\AssemblyReference.cs",
+              "RelativeToolTip": "Presentation\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:50:11.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

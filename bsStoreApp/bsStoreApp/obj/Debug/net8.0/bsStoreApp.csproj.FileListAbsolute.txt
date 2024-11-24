@@ -1,0 +1,6 @@
+C:\Users\mhmta\source\repos\bsStoreApp\bsStoreApp\obj\Debug\net8.0\bsStoreApp.csproj.AssemblyReference.cache
+C:\Users\mhmta\source\repos\bsStoreApp\bsStoreApp\obj\Debug\net8.0\bsStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmta\source\repos\bsStoreApp\bsStoreApp\obj\Debug\net8.0\bsStoreApp.AssemblyInfoInputs.cache
+C:\Users\mhmta\source\repos\bsStoreApp\bsStoreApp\obj\Debug\net8.0\bsStoreApp.AssemblyInfo.cs
+C:\Users\mhmta\source\repos\bsStoreApp\bsStoreApp\obj\Debug\net8.0\bsStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\mhmta\source\repos\bsStoreApp\bsStoreApp\obj\Debug\net8.0\bsStoreApp.MvcApplicationPartsAssemblyInfo.cache

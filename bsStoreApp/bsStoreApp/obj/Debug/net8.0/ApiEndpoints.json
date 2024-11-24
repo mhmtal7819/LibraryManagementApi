@@ -1,0 +1,107 @@
+[
+  {
+    "ContainingType": "Presentation.Controllers.LibsController",
+    "Method": "GetAllBooks",
+    "RelativePath": "api/Libs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.LibsController",
+    "Method": "CreateOneBook",
+    "RelativePath": "api/Libs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "lib",
+        "Type": "Entities.Models.Libs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.LibsController",
+    "Method": "UpdateOneBook",
+    "RelativePath": "api/Libs",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "lib",
+        "Type": "Entities.Models.Libs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.LibsController",
+    "Method": "PartiallyUpdateOneBook",
+    "RelativePath": "api/Libs",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "libPatch",
+        "Type": "Microsoft.AspNetCore.JsonPatch.Operations.Operation[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.LibsController",
+    "Method": "GetOneBook",
+    "RelativePath": "api/Libs/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.LibsController",
+    "Method": "DeleteOneook",
+    "RelativePath": "api/Libs/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "lib",
+        "Type": "Entities.Models.Libs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
